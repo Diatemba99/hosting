@@ -1,0 +1,17 @@
+1-CREATION DE TOUTE LA PARTIE VUE
+
+
+2-SUR LA PARTIE ADMIN AJOUTER DES BOUTONS ajouter,modifier,supprimer
+De plus mettre un bouton GESTION ECOLE sur la page ADMIN
+
+
+3-Afficher les infos de toutes les ecoles afin de faciliter les modifs
+
+
+4-Faire le login logout avec la POO
+
+
+5-AJout d'un btn inscription sur la page Admin
+
+
+6-Ajouter un champ categorie lors de la creation de l'ecole
